@@ -9,3 +9,6 @@ include the apiClass.php
 	echo $res["sura"]; //Sura Name(in Arabic and Chapter number in other languages)
 	echo $res["aya"]; //Aya number
 	echo $res["aya_text"]; //Aya txt
+	
+
+The full Code of the web app will be available here in the next days ( :3 I need to clean the code)
