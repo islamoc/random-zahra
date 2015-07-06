@@ -17,6 +17,4 @@ Class ZahraApi{
 		return json_decode($data,true);;
 	}
 }
-	$test = new ZahraApi("");
-	$res = $test->getData();
 ?>
