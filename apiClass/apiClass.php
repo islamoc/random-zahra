@@ -5,7 +5,7 @@ Class ZahraApi{
        $this->lang = $lang;
    }
    	function getData() {
-		$url = "http://localhost:8000/Quran/api/api.php?lang=".$this->lang;
+		$url = "http://random-zahra.ga/api/api.php?lang=".$this->lang;
 		$ch = curl_init();
 		$timeout = 5;
 		curl_setopt($ch, CURLOPT_URL, $url);
