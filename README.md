@@ -12,3 +12,4 @@ include the apiClass.php
 	
 
 The full Code of the web app will be available here in the next days ( :3 I need to clean the code)
+Contributions are welcomed speccially to implement apiClass in other programming languages
